@@ -1,0 +1,50 @@
+[
+    {
+        "id_vehiculo": 1,
+        "patente": "ABC123",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "tipo": "Sed\u00e1n",
+        "a\u00f1o": 2015,
+        "kilometraje": 75000,
+        "precio_compra": 12000,
+        "precio_venta": 15000,
+        "estado": "Disponible"
+    },
+    {
+        "id_vehiculo": 2,
+        "patente": "XYZ789",
+        "marca": "Ford",
+        "modelo": "Focus",
+        "tipo": "Hatchback",
+        "a\u00f1o": 2017,
+        "kilometraje": 50000,
+        "precio_compra": 14000,
+        "precio_venta": 17000,
+        "estado": "Reservado"
+    },
+    {
+        "id_vehiculo": 5,
+        "patente": "ad658rb",
+        "marca": "Chevrolet",
+        "modelo": "Prisma",
+        "tipo": "sedan",
+        "a\u00f1o": 2019,
+        "kilometraje": "20000",
+        "precio_de_compra": "16800",
+        "precio_de_venta": "17800",
+        "estado": "disponible"
+    },
+    {
+        "id_vehiculo": 6,
+        "patente": "iax 950",
+        "marca": "peugeot",
+        "modelo": "207",
+        "tipo": "hatchback",
+        "a\u00f1o": 2009,
+        "kilometraje": 50000,
+        "precio_de_compra": 7000,
+        "precio_de_venta": 10000,
+        "estado": "reservado"
+    }
+]

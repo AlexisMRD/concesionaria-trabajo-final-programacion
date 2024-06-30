@@ -1,0 +1,65 @@
+[
+    {
+        "id_transaccion": 1,
+        "id_vehiculo": 1,
+        "id_cliente": 1,
+        "tipo_transaccion": "Venta",
+        "fecha": "2024-01-15",
+        "monto": 15000,
+        "Observaciones": "Venta realizada con \u00e9xito."
+    },
+    {
+        "id_transaccion": 2,
+        "id_vehiculo": 2,
+        "id_cliente": 2,
+        "tipo_transaccion": "Compra",
+        "fecha": "2024-01-20",
+        "monto": 14000,
+        "Observaciones": "Compra registrada."
+    },
+    {
+        "id_vehiculo": 1,
+        "id_cliente": 2,
+        "id_transaccion": 3,
+        "tipo_transaccion": "Compra",
+        "fecha": "23-23-2024",
+        "monto": "50000",
+        "Observaciones": "Ninguna"
+    },
+    {
+        "id_vehiculo": 1,
+        "id_cliente": 2,
+        "id_transaccion": 4,
+        "tipo_transaccion": "Compra",
+        "fecha": "2024-06-27",
+        "monto": "50000",
+        "Observaciones": "Nada"
+    },
+    {
+        "id_vehiculo": 1,
+        "id_cliente": 2,
+        "id_transaccion": 5,
+        "tipo_transaccion": "Venta",
+        "fecha": "2024-06-27",
+        "monto": "8000",
+        "Observaciones": "Ninguna"
+    },
+    {
+        "id_vehiculo": 6,
+        "id_cliente": 3,
+        "id_transaccion": 6,
+        "tipo_transaccion": "Venta",
+        "fecha": "2024-06-29",
+        "monto": "10000",
+        "Observaciones": ""
+    },
+    {
+        "id_vehiculo": 6,
+        "id_cliente": 3,
+        "id_transaccion": 7,
+        "tipo_transaccion": "Venta",
+        "fecha": "2024-06-29",
+        "monto": "10000",
+        "Observaciones": "venta"
+    }
+]
